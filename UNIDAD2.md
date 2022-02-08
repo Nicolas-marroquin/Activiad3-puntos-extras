@@ -1,13 +1,13 @@
-#### *** el siguiente documento contiene un breve resumen de los siguientes temas su forma de aplicar y una pequeña descripcion de los mismos ***
+## *** _el siguiente documento contiene un breve resumen de los siguientes temas su forma de aplicar y una pequeña descripcion de los mismos_ ***
 
-- variables 
-- constantes
-- tipos de datos y operadores 
-- las operaciones  logicas 
-- estructuras de control condicionales
-    - if , else if
-    - switch case
-- Estructuras de control de bucles
-    -for 
-    -while
-- analisis de aplicacion a la vida cotidiana 
+- _variables 
+- _constantes
+- _tipos de datos y operadores 
+- _las operaciones  logicas 
+- _estructuras de control condicionales
+    - _if , else if
+    - _switch case
+- _Estructuras de control de bucles
+    -_for 
+    -_while
+- _analisis de aplicacion a la vida cotidiana 
