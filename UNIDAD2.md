@@ -8,6 +8,6 @@
     - _if , else if_
     - _switch case_
 - _Estructuras de control de bucles_
-    -_for_
-    -_while_
+    - _for_
+    - _while_
 - _analisis de aplicacion a la vida cotidiana_ 
