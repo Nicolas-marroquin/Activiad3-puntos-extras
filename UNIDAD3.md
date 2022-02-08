@@ -2,7 +2,7 @@
 
 
 - _los controladores de versiones_
-- _git_
+- _GIT_
   - _Ques es git y los beneficios de su uso_
   - _como configurar git_
   - _como crear repositorios y subir nuestros archivos_
