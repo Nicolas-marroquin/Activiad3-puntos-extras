@@ -1,4 +1,4 @@
-## *** _el siguiente documento contiene un breve resumen de los siguientes temas su forma de aplicar y una pequeña descripcion de los mismos_ ***
+## ***el siguiente documento contiene un breve resumen de los siguientes temas su forma de aplicar y una pequeña descripcion de los mismos***
 
 - _variables 
 - _constantes
