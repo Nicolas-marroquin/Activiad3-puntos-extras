@@ -1,7 +1,7 @@
 #### _El siguiente docuemento contiene un resumen de la unidad 1 de los sigiuientes temas_ :
 
-_1._ _codigo binario_
-_2._ _conversion de decimales a binario_
-3. conversion de binario a decimales_ 
-4. logica_
-5. algoritmos_
+1. _codigo binario_
+2. _conversion de decimales a binario_
+3. _conversion de binario a decimales_ 
+4. _logica_
+5. _algoritmos_
